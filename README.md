@@ -82,8 +82,8 @@ e04b7d3 2021  feat(web): primera línea de código    Centro Coliseum · 560h
 No hay build, no hay `npm install`. Clona y abre:
 
 ```bash
-git clone https://github.com/Marga-codes/portfolio.git
-cd portfolio
+git clone https://github.com/Marga-codes/Margarita_Naluanga_Porfolio.git
+cd Margarita_Naluanga_Porfolio
 # abre index.html en el navegador — eso es todo
 ```
 
